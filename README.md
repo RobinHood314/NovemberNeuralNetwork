@@ -4,6 +4,7 @@ This repository is for my side project in November, the November Neural Network 
 ## Table of Contents
 
   - [Introduction](#introduction)
+  - [Installation](#installation)
   - [Frequently Asked Questions](#frequently-asked-questions)
 
 ## Introduction
@@ -12,6 +13,12 @@ I will be working on this little project of mine, I had the idea today to learn 
 
 I'm most likely going to be coding this in Python as I've heard it's the way to go, and that's the language they used in the video.
 Also, it seems that it's more conventionally used in these types of projects (Correct me if I'm wrong haha)
+
+## Installation
+Just fork this repository or "git clone" it, as this is a personal meme project, I don't intend it to have any tangible purpose (as of now anyway!)
+```
+git clone https://github.com/RobinHood314/NovemberNeuralNetwork
+```
 
 ## Frequently Asked Questions
 - Why did you decide to make this neural network?
