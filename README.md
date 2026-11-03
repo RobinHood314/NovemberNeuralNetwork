@@ -5,7 +5,8 @@ This repository is for my side project in November, the November Neural Network 
 Welcome to the November Neural Network (NNN)! This is my project for the month of November! So for this ENTIRE month of November,
 I will be working on this little project of mine, I had the idea today to learn how to make a Neural Network from a YouTube Video.
 
-I'm most likely going to be coding this in Python as I've heard it's the way to go, and that's the language they used in the video
+I'm most likely going to be coding this in Python as I've heard it's the way to go, and that's the language they used in the video.
+Also, it seems that it's more conventionally used in these types of projects (Correct me if I'm wrong haha)
 
 ## Frequently Asked Questions
 - Why did you decide to make this neural network?
