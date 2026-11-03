@@ -1,6 +1,11 @@
 # NovemberNeuralNetwork
 This repository is for my side project in November, the November Neural Network (NNN), where I will work on it during the entire month of November!
 
+## Table of Contents
+
+  - [Introduction](#introduction)
+  - [Frequently Asked Questions](#frequently-asked-questions)
+
 ## Introduction
 Welcome to the November Neural Network (NNN)! This is my project for the month of November! So for this ENTIRE month of November,
 I will be working on this little project of mine, I had the idea today to learn how to make a Neural Network from a YouTube Video.
