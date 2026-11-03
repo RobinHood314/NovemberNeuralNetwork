@@ -1,4 +1,5 @@
 # NovemberNeuralNetwork
+Welcome the the November Neural Network!
 This repository is for my side project in November, the November Neural Network (NNN), where I will work on it during the entire month of November!
 
 ## Table of Contents
@@ -7,6 +8,7 @@ This repository is for my side project in November, the November Neural Network 
   - [Installation](#installation)
   - [Frequently Asked Questions](#frequently-asked-questions)
 
+
 ## Introduction
 Welcome to the November Neural Network (NNN)! This is my project for the month of November! So for this ENTIRE month of November,
 I will be working on this little project of mine, I had the idea today to learn how to make a Neural Network from a YouTube Video.
@@ -14,11 +16,14 @@ I will be working on this little project of mine, I had the idea today to learn 
 I'm most likely going to be coding this in Python as I've heard it's the way to go, and that's the language they used in the video.
 Also, it seems that it's more conventionally used in these types of projects (Correct me if I'm wrong haha)
 
+
 ## Installation
-Just fork this repository or "git clone" it, as this is a personal meme project, I don't intend it to have any tangible purpose (as of now anyway!)
+Just fork this repository or "git clone" it, as this is a personal meme project, I don't intend it to have any tangible purpose (Not as of now anyway!)
+
 ```
 git clone https://github.com/RobinHood314/NovemberNeuralNetwork
 ```
+
 
 ## Frequently Asked Questions
 - Why did you decide to make this neural network?
